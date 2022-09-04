@@ -13,6 +13,10 @@ The Olympic games have been a way for athletes from across the globe to compete 
 
 [World population](https://data.worldbank.org/indicator/SP.POP.TOTL) - World Bank
 
+[Shape file for geographic visualisations](https://datahub.io/core/geo-countries#resource-countries) - Datahub
+
+[GDP Time Series Data] (https://data.nasdaq.com/databases/WB/data) - World Bank c/o Nasdaq
+
 ## Supporting Documentation
  - [Olympian Database](https://www.olympiandatabase.com/index.php?id=13738&L=1)
 
