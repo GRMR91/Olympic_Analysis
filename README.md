@@ -15,7 +15,7 @@ The Olympic games have been a way for athletes from across the globe to compete 
 
 [Shape file for geographic visualisations](https://datahub.io/core/geo-countries#resource-countries) - Datahub
 
-[GDP Time Series Data] (https://data.nasdaq.com/databases/WB/data) - World Bank c/o Nasdaq
+[GDP Time Series Data](https://data.nasdaq.com/databases/WB/data) - World Bank c/o Nasdaq
 
 ## Supporting Documentation
  - [Olympian Database](https://www.olympiandatabase.com/index.php?id=13738&L=1)
