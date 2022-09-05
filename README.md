@@ -24,7 +24,7 @@ The Olympic games have been a way for athletes from across the globe to compete 
 
 ## Limitations
 
-This analysis covers the Summer and Winter Olympic Games that took place on alternating years from 1992 to 2016 starting with the Summer Games. The years were selected as they covered a suitable number of games that took place recently and a large amount of reliable data was available in the areas being explored.  
+This analysis covers the Summer and Winter Olympic Games that took place on alternating years from 1992 to 2016 starting with the Summer Games. It does not cover the Paralympic Games results. The years were selected as they covered a suitable number of games that took place recently and a large amount of reliable data was available in the areas being explored.  
 
 During the cleaning process the following teams were removed because the teams comprised of atheletes of differing nationalities making them unsuitable for this analysis. 
  - Czechoslovakia (only participated in the Games of '92)
